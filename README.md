@@ -34,10 +34,11 @@ This project develops an interactive system that uses computer vision to detect 
 3. **User Interaction:** Children can upload their images and see the results in real-time, fostering curiosity and learning about color composition.
 
 ## Arduino Components
-
+![Arduino Components](ArduinoComponents Table.png)
 
 ## Schematic Diagram and Connections
-
+![Connections Diagram](ConnectionsDiagram.png)
+![Diagram 2](Diagram2.png)
 
 ## Technical Details
 
@@ -56,5 +57,11 @@ This project develops an interactive system that uses computer vision to detect 
 
 
 The Image Color Detection system combines technology with education, providing children with an innovative tool to explore and understand color dynamics. By engaging with this system, children not only learn about primary colors but also develop an interest in technology and programming.
+
+### Demo
+![Blue Picture](BluePic.png)
+![Green Picture](GreenPic.png)
+![Red Picture](RedPic.png)
+![Yellow Picture](YellowPic.png)
 
 
