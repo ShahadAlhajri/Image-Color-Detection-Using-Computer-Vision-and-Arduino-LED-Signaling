@@ -34,7 +34,7 @@ This project develops an interactive system that uses computer vision to detect 
 3. **User Interaction:** Children can upload their images and see the results in real-time, fostering curiosity and learning about color composition.
 
 ## Arduino Components
-![Arduino Components](ArduinoComponents Table.png)
+![Arduino Components](ArduinoComponentsTable.png)
 
 ## Schematic Diagram and Connections
 ![Connections Diagram](ConnectionsDiagram.png)
